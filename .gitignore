@@ -1,6 +1,7 @@
 /__pycache__
 /.vscode
 /.node_modules
+/node_modules
 .env
 buttons.pyc
 sensor.pyc
